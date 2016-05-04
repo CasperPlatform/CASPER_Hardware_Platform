@@ -1,0 +1,1 @@
+ESC CalibrationBecouse we Attach the ESC as a Servo Neautral will be the value of 90, minimum the value of 0 and maximum the value of 180.Follow the ESC Calibration procedure stated in the Manual of the Toro ESC and adapt it to these values.
