@@ -1,0 +1,35 @@
+Testing - ESC Stutter ERROR code #0001
+
+-------------------------------
+Wire soldiering
+
+Wire A, Wire B, Wire C
+
+A = Blue B = yellow C = Orange
+
+ 1 - A B C - no
+ 2 - A C B - no
+ 3 - B A C - no
+ 4 - B C A - no
+ 5 - C A B - no
+ 6 - C B A - no
+
+-------------------------------
+Motor Timing 
+
+ 1 - Lowest
+
+ 2 - Normal
+
+ 3 - Highest
+
+-------------------------------
+Throttle Dead Band
+
+ 1 - Large
+ 2 - Normal
+ 3 - Small
+ 4 - Very Small
+ 5 - Smallest
+
+--------------------------------
