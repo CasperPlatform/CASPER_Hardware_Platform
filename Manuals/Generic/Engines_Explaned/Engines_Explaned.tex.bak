@@ -458,14 +458,20 @@ And a finished Arduino Library containing all the methods for simplifying usage 
 \section{Research method }
 After trying to build a chassi with custom solutions for steering and wheels we dumped the idea of "from bottom up" and bought a cheap 1/10 scale RC car of the internet. we stripped the DC steering engine, Controller card, battery and drive engine and started putting in parts selected by us. We got a cheap ESC (Electronic Speed controller) and a few engines, a servo and a Arduino Uno.  
 
+insert engine brushless explained\\
 
+insert engine brushless + sensor explained\\
+
+insert engine brushed explained\\
+
+insert Servo steering explained
 
 \section{Results}
-The result is a "multitool" platform for a wide range of communities, 
+The result is a "multitool" platform for a wide range of communities, RC entusiasts can simply get the minimum specs and replace their radio control with wifi to one of the provided clients, or develop a client of their own using the open protocol's supplied. or for just about 70 bucks get both that and a video stream from their RC car. Or people more intrested in the sensory platform applications the MotorController Library allso supports brushed motors or Sensored brushless motors so more precise control and a wide range of sensors can easely be included.
 
 
 \section{Conclusion}
-
+Before getting your hands dirty diggin in to the CASP.ER project look at all the hardware requierments for your project and if you feel it helps follow our guide with recomendations. This is what we came to belive to be the balance needed to supply diffrent types of platorms.
 
 
 
